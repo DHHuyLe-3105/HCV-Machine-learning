@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+title: >-
+  Data and code for: Resistance-associated substitution profiles outperform
+  whole-genome sequences for machine learning prediction of hepatitis C
+  treatment failure across multiple genotypes
+message: If you use this dataset or code, please cite the associated article.
+type: software
+license: MIT
+version: 1.0.0
+date-released: "2026-09-04"
+authors:
+  - family-names: Le
+    given-names: Duong Hoang Huy
+  - family-names: Puenpa
+    given-names: Jiratchaya
+  - family-names: Nilyanimit
+    given-names: Pornjarim
+  - family-names: Kanokudom
+    given-names: Sitthichai
+  - family-names: Trinh
+    given-names: Ngoc Minh
+  - family-names: Honsawek
+    given-names: Sittisak
+  - family-names: Poovorawan
+    given-names: Yong
